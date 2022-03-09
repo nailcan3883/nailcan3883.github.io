@@ -2,9 +2,9 @@ let projects_row = document.getElementById('projects-row');
 
 let projects = [
     {
-        "name": "Application Portal", 
-        "description": "For applications with sample documents", 
-        <a href="nailcan-temirci/index.html"></a>
+        "name": "HTML-Projects", 
+        "description": "my small projects of HTML", 
+      "link": "https://kamisniper.com/"
     },
     {
         "name": "Password Generator",
