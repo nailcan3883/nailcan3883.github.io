@@ -2,8 +2,8 @@ let projects_row = document.getElementById('projects-row');
 
 let projects = [
     {
-        "name": "Kami Sniper", 
-        "description": "My Service to snipe your desired Minecraft Username onto a fresh Account.", 
+        "name": "HTML-Projects", 
+        "description": "My small projects of HTML", 
         "link": "https://kamisniper.com/"
     },
     {
