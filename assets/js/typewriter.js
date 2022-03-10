@@ -1,5 +1,5 @@
 let typing_effect = document.getElementById("typing-effect");
-let typing_effect_texts = ["nail-can", "network engineer", "developer"]
+let typing_effect_texts = ["nail-can temirci", "network engineer", "developer"]
 let text_index = 0;
 let i = 0;
 
