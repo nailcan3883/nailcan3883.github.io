@@ -9,12 +9,12 @@ let projects = [
     {
         "name": "Password Generator",
         "description": "An easy to use Password Generator with decent features.",
-        "link": "https://enes.vip/password-generator"
+        "link": "https://nailcan.de/password-generator"
     },
     {
         "name": "IP Info",
         "description": "An easy to use User Interface to get more information about an IP address.",
-        "link": "https://enes.vip/ip-info"
+        "link": "https://nailcan.de/ip-info"
     },
     {
         "name": "Museno",
@@ -29,7 +29,7 @@ let projects = [
     {
         "name": "Another Project",
         "description": "lorem ipsum.",
-        "link": "https://enes.vip/"
+        "link": "https://nailcan.de/"
     }
 ]
 
