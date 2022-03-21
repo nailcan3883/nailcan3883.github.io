@@ -17,11 +17,6 @@ let projects = [
         "link": "https://nailcan.de/ip-info"
     },
     {
-        "name": "Museno",
-        "description": "Listen to Music anywhere, online or offline, for free, using my unfinished Application.",
-        "link": "museno.xyz"
-    },
-    {
         "name": "Socials",
         "description": "My second website which I use for linking my social media acocunts.",
         "link": "dead.wtf"
